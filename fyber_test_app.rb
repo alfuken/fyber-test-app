@@ -8,7 +8,7 @@ class FyberTestApp < Sinatra::Base
   end
 
   post '/' do
-    @data = FyberClient.find(params)
+    @data = FyberClient.find(params).to_hash
     erb :results
   end
 end

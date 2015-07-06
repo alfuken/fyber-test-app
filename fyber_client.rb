@@ -7,14 +7,23 @@ class FyberClient
 
   def initialize(params = {})
     @params = params
+    @response = {}
   end
 
   def self.find(params)
-    new(params).to_hash
+    new(params).tap(&:retrieve!)
   end
 
   def to_hash
-    JSON.parse(RestClient.get(request_url))
+    JSON.parse(@response)
+  rescue
+    {"message" => "We couldn't interpret service response."}
+  end
+
+  def retrieve!
+    @response = RestClient.get(request_url)
+  rescue RestClient::Exception => e
+    @response = e.response
   end
 
   def request_params
