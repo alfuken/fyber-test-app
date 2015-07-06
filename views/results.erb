@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<head>
+  <title>Fyber Test App</title>
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <h1 class="logo"><a href="/">Fyber Test App</a></h1>
+    <div class="clear"></div>
+
+    <div class="content">
+      <div class="in title">
+        <h2>Search results</h2>
+      </div>
+
+      <div class="line"></div>
+      
+      <div class="in">
+        <% if @data["code"] == "OK" %>
+          <div class="clear"></div>
+          <p class="offers">
+            Offers:
+          </p>
+          <% @data["offers"].each do |offer| %>
+            <div class="offer">
+              <div class="desc payout"><%= offer["payout"] %></div>
+              <img src="<%= offer["thumbnail"]["lowres"] %>" />
+              <div class="desc"><%= offer["title"] %></div>
+            </div>
+          <% end %>
+          <div class="clear"></div>
+        <% elsif @data["code"] == "NO_CONTENT" %>
+          Sorry, nothing found.
+        <% else %>
+          An error has occurred during request, <%= @data["message"] %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

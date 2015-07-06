@@ -1,0 +1,133 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Lucida Grande, Arial;
+    font-size: 13px;
+    background-color: #ebebeb;
+    color: #464646;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.content {
+    background-color: #FFFFFF;
+    border: 1px solid #bab9b9;
+    text-align: center;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+.in {
+    width: 850px;
+    margin: 25px auto;
+    text-align: left;
+}
+
+.line {
+    border-top: 1px solid #bab9b9;
+    height: 1px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-family: Georgia;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.title p {
+    margin: 0;
+    padding: 0;
+}
+
+.forms {
+    line-height: 2em;
+}
+
+a:link, a:visited {
+    color: #30a4b1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f7941d;
+}
+
+.logo {
+    float: left;
+    margin: 25px 0;
+}
+
+.box {
+    border: 1px solid #bab9b9;
+    padding: 10px;
+    width: 400px;
+    color: #707070;
+    font-size: 14px;
+}
+
+.com_btn {
+    margin: 0px;
+    padding: 10px 20px;
+    border: 0px;
+    background-color: #f7941d;
+    color: #fff;
+    font-size: 14px;
+}
+
+a.com_btn, a.com_btn:hover {
+    color: #fff;
+}
+
+.clear {
+    clear: both;
+}
+
+.offer {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #bab9b9;
+    height: auto;
+		min-height: 160px;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+
+.offer img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+.offer .desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+
+.offer .payout {
+		color: #c0c0c0;
+}
+
+.offers {
+	padding: 5px;
+}
+
+.footer {
+    text-align: right;
+    margin-bottom: 40px;
+}
