@@ -14,3 +14,7 @@ RSpec.configure do |config|
     FyberTestApp
   end
 end
+
+def stub_rest_client_get_with(file)
+  allow(RestClient).to receive(:get).and_return(File.read("spec/files/#{file}"))
+end

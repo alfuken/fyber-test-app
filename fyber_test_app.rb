@@ -1,5 +1,6 @@
 require 'sinatra/base'
 require 'rest-client'
+require './fyber_client'
 
 class FyberTestApp < Sinatra::Base
   get '/' do
@@ -7,7 +8,7 @@ class FyberTestApp < Sinatra::Base
   end
 
   post '/' do
-    @data = {}
+    @data = FyberClient.find(params)
     erb :results
   end
 end

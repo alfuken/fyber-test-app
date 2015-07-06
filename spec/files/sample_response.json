@@ -1,0 +1,792 @@
+{
+    "code": "OK",
+    "message": "Ok",
+    "count": 30,
+    "pages": 5,
+    "information": {
+        "app_name": "Demo iframe for publisher - do not touch",
+        "appid": 157,
+        "virtual_currency": "Coins",
+        "country": "DE",
+        "language": "DE",
+        "support_url": "http://api.sponsorpay.com/support?appid=157&feed=on&mobile=on&uid=Machinae_Supremacy_-_Player_One"
+    },
+    "offers": [{
+        "title": "Clash of Lords 2: Ehrenkampf",
+        "offer_id": 266892,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/16a5e5d8e34d4088/mobile/DE/157/offers/266892",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 17781,
+        "time_to_payout": {
+            "amount": 600,
+            "readable": "10 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/app_icons/19476/small_mobile_icon.png",
+            "hires": "http://cdn3.sponsorpay.com/app_icons/19476/big_mobile_icon.png"
+        },
+        "store_id": "com.igg.clashoflords2_de"
+    }, {
+        "title": "Kill Shot",
+        "offer_id": 546795,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/f74663a983ae436f/mobile/DE/157/offers/546795",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 8367,
+        "time_to_payout": {
+            "amount": 1800,
+            "readable": "30 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn4.sponsorpay.com/app_icons/26390/small_mobile_icon.png",
+            "hires": "http://cdn4.sponsorpay.com/app_icons/26390/big_mobile_icon.png"
+        },
+        "store_id": "com.hotheadgames.google.free.rawsniper"
+    }, {
+        "title": "Gratis Prepaid-SIM",
+        "offer_id": 356777,
+        "teaser": "Bestellen Sie bis zu zwei o2 Loop Freikarten. Jetzt kostenlos bestellen.",
+        "required_actions": "Bestellen Sie bis zu zwei o2 Loop Freikarten. Jetzt kostenlos bestellen.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/c52a61824964a662/mobile/DE/157/offers/356777",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 76160,
+        "time_to_payout": {
+            "amount": 1200,
+            "readable": "20 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/assets/15196/offerwall-02_square_60.jpg",
+            "hires": "http://cdn3.sponsorpay.com/assets/15196/offerwall-02_square_175.jpg"
+        },
+        "store_id": ""
+    }, {
+        "title": "Nimm teil und gewinne!",
+        "offer_id": 387469,
+        "teaser": "Nimm mit deinen korrekten Daten am Gewinnspiel teil.",
+        "required_actions": "Nimm mit deinen korrekten Daten am Gewinnspiel teil.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/a5c2abee59cdfeef/mobile/DE/157/offers/387469/preview",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 81637,
+        "time_to_payout": {
+            "amount": 600,
+            "readable": "10 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/2690/appleprdodukty_square_60.PNG",
+            "hires": "http://cdn1.sponsorpay.com/assets/2690/appleprdodukty_square_175.PNG"
+        },
+        "store_id": ""
+    }, {
+        "title": "Checkout the free Appwall",
+        "offer_id": 500592,
+        "teaser": "Open Appwall and install an app",
+        "required_actions": "Open Appwall and install an app",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/bee64d821cb23b23/mobile/DE/157/offers/500592/preview",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 45243,
+        "time_to_payout": {
+            "amount": 3000,
+            "readable": "einer Stunde"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/assets/15181/offerwall-Mobile_square_60.jpg",
+            "hires": "http://cdn3.sponsorpay.com/assets/15181/offerwall-Mobile_square_175.jpg"
+        },
+        "store_id": ""
+    }, {
+        "title": "Basketball Hoo - 4 Minuten spielen!",
+        "offer_id": 384387,
+        "teaser": "Klicke auf \"Spielen\" und spiele f\u00fcr 4 Minuten!",
+        "required_actions": "Klicke auf \"Spielen\" und spiele f\u00fcr 4 Minuten!",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/9600efb3717b0d6f/mobile/DE/157/offers/384387",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 12558,
+        "time_to_payout": {
+            "amount": 120,
+            "readable": "2 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn2.sponsorpay.com/assets/46869/baskethoops175_square_60.jpg",
+            "hires": "http://cdn2.sponsorpay.com/assets/46869/baskethoops175_square_175.jpg"
+        },
+        "store_id": ""
+    }, {
+        "title": "Timbermen",
+        "offer_id": 385179,
+        "teaser": "Spiel mindestens 2 Minuten lang.",
+        "required_actions": "Spiel mindestens 2 Minuten lang.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/2cec46cc4b3463e6/mobile/DE/157/offers/385179",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 9152,
+        "time_to_payout": {
+            "amount": 600,
+            "readable": "10 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/assets/1265/generic_logo_Games_square_60.PNG",
+            "hires": "http://cdn3.sponsorpay.com/assets/1265/generic_logo_Games_square_175.PNG"
+        },
+        "store_id": ""
+    }, {
+        "title": "Animalines - Bis Level 6 spielen",
+        "offer_id": 410645,
+        "teaser": "Klicke auf \"Spielen\" und spiele f\u00fcr bis Level 6!",
+        "required_actions": "Klicke auf \"Spielen\" und spiele f\u00fcr bis Level 6!",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/876d254dc6d88537/mobile/DE/157/offers/410645/preview",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 12558,
+        "time_to_payout": {
+            "amount": 120,
+            "readable": "2 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/assets/47336/animalines_175x175_square_60.png",
+            "hires": "http://cdn3.sponsorpay.com/assets/47336/animalines_175x175_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "Katalog Kiosk",
+        "offer_id": 99852,
+        "teaser": "Melde dich f\u00fcr Newsletter deiner Wahl an und best\u00e4tige deine Email",
+        "required_actions": "Melde dich f\u00fcr Newsletter deiner Wahl an und best\u00e4tige deine Email",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/49f4ddca5c5d5a92/mobile/DE/157/offers/99852",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 10549,
+        "time_to_payout": {
+            "amount": 13500,
+            "readable": "4 Stunden"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/71/kiosk_square_60.gif",
+            "hires": "http://cdn1.sponsorpay.com/assets/71/kiosk_square_175.gif"
+        },
+        "store_id": ""
+    }, {
+        "title": "Survey Sampling - Umfrage",
+        "offer_id": 160900,
+        "teaser": "Registriere dich und nimm gewissenhaft an der Umfrage teil",
+        "required_actions": "Registriere dich und nimm gewissenhaft an der Umfrage teil",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/4d4ef52ae75048b8/mobile/DE/157/offers/160900",
+        "offer_types": [{
+            "offer_type_id": 110,
+            "readable": "Umfragen"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 38259,
+        "time_to_payout": {
+            "amount": 900,
+            "readable": "15 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn4.sponsorpay.com/assets/321/Sampling_International_square_60.png",
+            "hires": "http://cdn4.sponsorpay.com/assets/321/Sampling_International_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "Win Dove Set",
+        "offer_id": 550716,
+        "teaser": "Registriere dich mit korrekten Daten ",
+        "required_actions": "Registriere dich mit korrekten Daten ",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/f3501908b27d5cde/mobile/DE/157/offers/550716/preview",
+        "offer_types": [{
+            "offer_type_id": 104,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 108,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 98455,
+        "time_to_payout": {
+            "amount": 600,
+            "readable": "10 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/52464/Dove_square_60.png",
+            "hires": "http://cdn1.sponsorpay.com/assets/52464/Dove_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "Dragon Fire Empire",
+        "offer_id": 298388,
+        "teaser": "Lade die App herunter und ERSTELLE einen Account",
+        "required_actions": "Lade die App herunter und ERSTELLE einen Account",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/dfab3394281fd12e/mobile/DE/157/offers/298388",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 482,
+        "time_to_payout": {
+            "amount": 0,
+            "readable": "einer Minute"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/assets/45029/Screen_Shot_2014-07-23_at_4.42.19_PM_square_60.png",
+            "hires": "http://cdn3.sponsorpay.com/assets/45029/Screen_Shot_2014-07-23_at_4.42.19_PM_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "Schloss Konflikt: Castle Clash",
+        "offer_id": 142068,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/0c8dc7e97411b649/mobile/DE/157/offers/142068",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 19171,
+        "time_to_payout": {
+            "amount": 1200,
+            "readable": "20 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/app_icons/6516/small_mobile_icon.png",
+            "hires": "http://cdn3.sponsorpay.com/app_icons/6516/big_mobile_icon.png"
+        },
+        "store_id": "com.igg.castleclash_de"
+    }, {
+        "title": "Cherry Pie",
+        "offer_id": 552162,
+        "teaser": "Engage in the game for at least 2 minutes.",
+        "required_actions": "Engage in the game for at least 2 minutes.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/e5db3deddc138676/mobile/DE/157/offers/552162",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 9152,
+        "time_to_payout": {
+            "amount": 300,
+            "readable": "5 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/44579/CherryPieMaster_200x120_square_60.jpg",
+            "hires": "http://cdn1.sponsorpay.com/assets/44579/CherryPieMaster_200x120_square_175.jpg"
+        },
+        "store_id": ""
+    }, {
+        "title": "TVSMILES",
+        "offer_id": 561669,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/c06a07eff259486d/mobile/DE/157/offers/561669",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 15992,
+        "time_to_payout": {
+            "amount": 1200,
+            "readable": "20 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn2.sponsorpay.com/app_icons/16987/small_mobile_icon.png",
+            "hires": "http://cdn2.sponsorpay.com/app_icons/16987/big_mobile_icon.png"
+        },
+        "store_id": "637481386"
+    }, {
+        "title": "Win Dove Set",
+        "offer_id": 550713,
+        "teaser": "Registriere dich mit korrekten Daten und best\u00e4tige deine E-Mail",
+        "required_actions": "Registriere dich mit korrekten Daten und best\u00e4tige deine E-Mail",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/faa1734b7924dd71/mobile/DE/157/offers/550713/preview",
+        "offer_types": [{
+            "offer_type_id": 104,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 108,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 159917,
+        "time_to_payout": {
+            "amount": 2400,
+            "readable": "40 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/52464/Dove_square_60.png",
+            "hires": "http://cdn1.sponsorpay.com/assets/52464/Dove_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "Rush of Heroes",
+        "offer_id": 563397,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/9cae8df843080db0/mobile/DE/157/offers/563397",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 7225,
+        "time_to_payout": {
+            "amount": 600,
+            "readable": "10 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn2.sponsorpay.com/app_icons/39302/small_mobile_icon.png",
+            "hires": "http://cdn2.sponsorpay.com/app_icons/39302/big_mobile_icon.png"
+        },
+        "store_id": "com.fireflygames.rushofheroes"
+    }, {
+        "title": "Circle Pong",
+        "offer_id": 565590,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/477e20f290243c71/mobile/DE/157/offers/565590",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 8670,
+        "time_to_payout": {
+            "amount": 1800,
+            "readable": "30 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn4.sponsorpay.com/app_icons/41358/small_mobile_icon.png",
+            "hires": "http://cdn4.sponsorpay.com/app_icons/41358/big_mobile_icon.png"
+        },
+        "store_id": "com.vertigo.circlepong"
+    }, {
+        "title": "Real Quality in the Mountains",
+        "offer_id": 553671,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/6e5b783b1618f573/mobile/DE/157/offers/553671",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 5078,
+        "time_to_payout": {
+            "amount": 0,
+            "readable": "einer Minute"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn2.sponsorpay.com/assets/52608/Real_Quality_in_the_Mountains_square_60.jpg",
+            "hires": "http://cdn2.sponsorpay.com/assets/52608/Real_Quality_in_the_Mountains_square_175.jpg"
+        },
+        "store_id": ""
+    }, {
+        "title": "Ikariam",
+        "offer_id": 565485,
+        "teaser": "Registriere dich, best\u00e4tige deine E-Mail-Adresse und fange an zu spielen.",
+        "required_actions": "Registriere dich, best\u00e4tige deine E-Mail-Adresse und fange an zu spielen.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/d5b3af3fbbc2a079/mobile/DE/157/offers/565485",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 38479,
+        "time_to_payout": {
+            "amount": 1800,
+            "readable": "30 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/49423/hex_square_60.jpeg",
+            "hires": "http://cdn1.sponsorpay.com/assets/49423/hex_square_175.jpeg"
+        },
+        "store_id": ""
+    }, {
+        "title": "Videostripe",
+        "offer_id": 557388,
+        "teaser": "Submit valid details and payment information. No purchase necessary. ",
+        "required_actions": "Submit valid details and payment information. No purchase necessary. ",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/22bbfa3c82cee6f3/mobile/DE/157/offers/557388/preview",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 221269,
+        "time_to_payout": {
+            "amount": 3300,
+            "readable": "einer Stunde"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn2.sponsorpay.com/assets/43294/Videostrupe_square_60.png",
+            "hires": "http://cdn2.sponsorpay.com/assets/43294/Videostrupe_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "posterXXL Designer",
+        "offer_id": 551085,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/901419e0b746e144/mobile/DE/157/offers/551085",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 33717,
+        "time_to_payout": {
+            "amount": 300,
+            "readable": "5 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/app_icons/39509/small_mobile_icon.png",
+            "hires": "http://cdn1.sponsorpay.com/app_icons/39509/big_mobile_icon.png"
+        },
+        "store_id": "722986357"
+    }, {
+        "title": "Hola Launcher",
+        "offer_id": 565620,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/168df26a67a08a3e/mobile/DE/157/offers/565620",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 7225,
+        "time_to_payout": {
+            "amount": 1800,
+            "readable": "30 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn2.sponsorpay.com/app_icons/34303/small_mobile_icon.png",
+            "hires": "http://cdn2.sponsorpay.com/app_icons/34303/big_mobile_icon.png"
+        },
+        "store_id": "com.hola.launcher"
+    }, {
+        "title": "Pudding land",
+        "offer_id": 552144,
+        "teaser": "Engage in the game for at least 2 minutes.",
+        "required_actions": "Engage in the game for at least 2 minutes.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/202715d99cc79b3d/mobile/DE/157/offers/552144",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 9152,
+        "time_to_payout": {
+            "amount": 300,
+            "readable": "5 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn4.sponsorpay.com/assets/46316/Pudding_Land_square_60.jpg",
+            "hires": "http://cdn4.sponsorpay.com/assets/46316/Pudding_Land_square_175.jpg"
+        },
+        "store_id": ""
+    }, {
+        "title": "pizza.de - Essen bestellen",
+        "offer_id": 559605,
+        "teaser": "Lade die App herunter und \u00f6ffne sie",
+        "required_actions": "Lade die App herunter und \u00f6ffne sie",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/7c97b2fd26f7ccee/mobile/DE/157/offers/559605",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 15572,
+        "time_to_payout": {
+            "amount": 0,
+            "readable": "einer Minute"
+        },
+        "thumbnail": {
+            "lowres": "http://lh3.ggpht.com/oWwa35xdobuhe83QnKeiPJEV0RA5EvQsN6JUDeUi8WzcU5IjZ6M2DQsCn0W2KhcWryw=w300-rw",
+            "hires": "http://lh3.ggpht.com/oWwa35xdobuhe83QnKeiPJEV0RA5EvQsN6JUDeUi8WzcU5IjZ6M2DQsCn0W2KhcWryw=w300-rw"
+        },
+        "store_id": ""
+    }, {
+        "title": "Videostripe",
+        "offer_id": 559728,
+        "teaser": "Submit valid details and payment information. No purchase necessary. ",
+        "required_actions": "Submit valid details and payment information. No purchase necessary. ",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/67bbd2da8d7e6859/mobile/DE/157/offers/559728/preview",
+        "offer_types": [{
+            "offer_type_id": 102,
+            "readable": "Proben"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 221269,
+        "time_to_payout": {
+            "amount": 1800,
+            "readable": "30 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn3.sponsorpay.com/assets/40490/videostripe_square_60.JPG",
+            "hires": "http://cdn3.sponsorpay.com/assets/40490/videostripe_square_175.JPG"
+        },
+        "store_id": ""
+    }, {
+        "title": "Fahrrad Gewinnspiel!",
+        "offer_id": 552717,
+        "teaser": "Nimm mit deinen korrekten Daten am Gewinnspiel teil.",
+        "required_actions": "Nimm mit deinen korrekten Daten am Gewinnspiel teil.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/df8fdf5639f84abb/mobile/DE/157/offers/552717/preview",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 94202,
+        "time_to_payout": {
+            "amount": 600,
+            "readable": "10 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/52587/bike_square_60.png",
+            "hires": "http://cdn1.sponsorpay.com/assets/52587/bike_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "5x250\u20ac Geschenkkarte gewinnen",
+        "offer_id": 560721,
+        "teaser": "Registriere dich mit korrekten Daten",
+        "required_actions": "Registriere dich mit korrekten Daten",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/c52a284e0d1ac410/mobile/DE/157/offers/560721/preview",
+        "offer_types": [{
+            "offer_type_id": 105,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 118706,
+        "time_to_payout": {
+            "amount": 1200,
+            "readable": "20 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/assets/52917/media_markt_square_60.png",
+            "hires": "http://cdn1.sponsorpay.com/assets/52917/media_markt_square_175.png"
+        },
+        "store_id": ""
+    }, {
+        "title": "PAYBACK - Coupons & Gutscheine",
+        "offer_id": 550893,
+        "teaser": "Herunterladen und STARTEN",
+        "required_actions": "Herunterladen und STARTEN",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/3707f1fd45ef1b2f/mobile/DE/157/offers/550893",
+        "offer_types": [{
+            "offer_type_id": 101,
+            "readable": "Download"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 12042,
+        "time_to_payout": {
+            "amount": 1800,
+            "readable": "30 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn1.sponsorpay.com/app_icons/31071/small_mobile_icon.png",
+            "hires": "http://cdn1.sponsorpay.com/app_icons/31071/big_mobile_icon.png"
+        },
+        "store_id": "de.payback.client.android"
+    }, {
+        "title": "5 x 500\u20ac LiDL Gutschein ",
+        "offer_id": 557283,
+        "teaser": "Registriere dich mit korrekten Daten und best\u00e4tige deine E-Mail.",
+        "required_actions": "Registriere dich mit korrekten Daten und best\u00e4tige deine E-Mail.",
+        "link": "http://api.sponsorpay.com/8ef9707143d5aa7b1d3845f596bf04bc/ffebc6b2f07544b2/mobile/DE/157/offers/557283",
+        "offer_types": [{
+            "offer_type_id": 104,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 106,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 108,
+            "readable": "Registrierung"
+        }, {
+            "offer_type_id": 109,
+            "readable": "Spiele"
+        }, {
+            "offer_type_id": 112,
+            "readable": "Gratis"
+        }],
+        "payout": 45697,
+        "time_to_payout": {
+            "amount": 1800,
+            "readable": "30 Minuten"
+        },
+        "thumbnail": {
+            "lowres": "http://cdn2.sponsorpay.com/assets/52137/LIDL_Voucher_square_60.JPG",
+            "hires": "http://cdn2.sponsorpay.com/assets/52137/LIDL_Voucher_square_175.JPG"
+        },
+        "store_id": ""
+    }]
+}
